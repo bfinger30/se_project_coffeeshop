@@ -5,7 +5,6 @@
 
 .nav__links {
   display: flex;
-  align-items: center;
   list-style-type: none;
   gap: 20px;
   padding: 0;
@@ -14,6 +13,7 @@
 
 .nav__link {
   color: #000;
+  font-weight: 500;
   text-decoration: none;
   transition: opacity 1s;
 }
